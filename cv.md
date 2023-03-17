@@ -4,7 +4,7 @@
 
 * **Location**: Minsk, Belarus
 * **Phone**: +375 44 575-40-66
-* **Email**: christina.kushnyarevich@gmail.com
+* **Email**: <christina.kushnyarevich@gmail.com>
 * **GitHub**: [Nimvel](https://github.com/Nimvel)
 
 <!-- Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении учиться и узнавать новое)
@@ -21,7 +21,8 @@
 
 ### Code Example
 
-```function brightest(colors){
+```
+function brightest(colors){
   let arr = []
   
   for (let i = 0; i < colors.length; i++) {
@@ -39,7 +40,6 @@
       return colors[i]
     }
   }
-  
 }
 ```
 
